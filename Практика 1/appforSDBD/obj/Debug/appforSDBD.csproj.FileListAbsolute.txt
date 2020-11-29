@@ -1,0 +1,41 @@
+C:\Users\anglebov\Desktop\appforSDBD\appforSDBD\bin\Debug\appforSDBD.exe.config
+C:\Users\anglebov\Desktop\appforSDBD\appforSDBD\bin\Debug\appforSDBD.exe
+C:\Users\anglebov\Desktop\appforSDBD\appforSDBD\bin\Debug\appforSDBD.pdb
+C:\Users\anglebov\Desktop\appforSDBD\appforSDBD\obj\Debug\appforSDBD.DesignerSDBD.resources
+C:\Users\anglebov\Desktop\appforSDBD\appforSDBD\obj\Debug\appforSDBD.Form1.resources
+C:\Users\anglebov\Desktop\appforSDBD\appforSDBD\obj\Debug\appforSDBD.Properties.Resources.resources
+C:\Users\anglebov\Desktop\appforSDBD\appforSDBD\obj\Debug\appforSDBD.csproj.GenerateResource.Cache
+C:\Users\anglebov\Desktop\appforSDBD\appforSDBD\obj\Debug\appforSDBD.csproj.CoreCompileInputs.cache
+C:\Users\anglebov\Desktop\appforSDBD\appforSDBD\obj\Debug\appforSDBD.exe
+C:\Users\anglebov\Desktop\appforSDBD\appforSDBD\obj\Debug\appforSDBD.pdb
+C:\Users\anglebov\Desktop\appforSDBD\appforSDBD\obj\Debug\appforSDBD.Вход.resources
+Z:\appforSDBD\appforSDBD\bin\Debug\appforSDBD.exe.config
+Z:\appforSDBD\appforSDBD\bin\Debug\appforSDBD.exe
+Z:\appforSDBD\appforSDBD\bin\Debug\appforSDBD.pdb
+Z:\appforSDBD\appforSDBD\obj\Debug\appforSDBD.DesignerSDBD.resources
+Z:\appforSDBD\appforSDBD\obj\Debug\appforSDBD.Form1.resources
+Z:\appforSDBD\appforSDBD\obj\Debug\appforSDBD.Properties.Resources.resources
+Z:\appforSDBD\appforSDBD\obj\Debug\appforSDBD.Вход.resources
+Z:\appforSDBD\appforSDBD\obj\Debug\appforSDBD.csproj.GenerateResource.Cache
+Z:\appforSDBD\appforSDBD\obj\Debug\appforSDBD.csproj.CoreCompileInputs.cache
+Z:\appforSDBD\appforSDBD\obj\Debug\appforSDBD.exe
+Z:\appforSDBD\appforSDBD\obj\Debug\appforSDBD.pdb
+Z:\appforSDBD\appforSDBD\obj\Debug\appforSDBD.administrate.resources
+Z:\appforSDBD\appforSDBD\bin\Debug\MySql.Data.dll
+Z:\appforSDBD\appforSDBD\bin\Debug\MySql.Data.xml
+C:\Users\sdopuasho\Desktop\Бэкап флешки\appforSDBD\appforSDBD\bin\Debug\appforSDBD.exe.config
+C:\Users\sdopuasho\Desktop\Бэкап флешки\appforSDBD\appforSDBD\bin\Debug\appforSDBD.exe
+C:\Users\sdopuasho\Desktop\Бэкап флешки\appforSDBD\appforSDBD\bin\Debug\appforSDBD.pdb
+C:\Users\sdopuasho\Desktop\Бэкап флешки\appforSDBD\appforSDBD\bin\Debug\MySql.Data.dll
+C:\Users\sdopuasho\Desktop\Бэкап флешки\appforSDBD\appforSDBD\bin\Debug\MySql.Data.xml
+C:\Users\sdopuasho\Desktop\Бэкап флешки\appforSDBD\appforSDBD\obj\Debug\appforSDBD.csprojAssemblyReference.cache
+C:\Users\sdopuasho\Desktop\Бэкап флешки\appforSDBD\appforSDBD\obj\Debug\appforSDBD.administrate.resources
+C:\Users\sdopuasho\Desktop\Бэкап флешки\appforSDBD\appforSDBD\obj\Debug\appforSDBD.DesignerSDBD.resources
+C:\Users\sdopuasho\Desktop\Бэкап флешки\appforSDBD\appforSDBD\obj\Debug\appforSDBD.Form1.resources
+C:\Users\sdopuasho\Desktop\Бэкап флешки\appforSDBD\appforSDBD\obj\Debug\appforSDBD.Properties.Resources.resources
+C:\Users\sdopuasho\Desktop\Бэкап флешки\appforSDBD\appforSDBD\obj\Debug\appforSDBD.Вход.resources
+C:\Users\sdopuasho\Desktop\Бэкап флешки\appforSDBD\appforSDBD\obj\Debug\appforSDBD.csproj.GenerateResource.cache
+C:\Users\sdopuasho\Desktop\Бэкап флешки\appforSDBD\appforSDBD\obj\Debug\appforSDBD.csproj.CoreCompileInputs.cache
+C:\Users\sdopuasho\Desktop\Бэкап флешки\appforSDBD\appforSDBD\obj\Debug\appforSDBD.csproj.CopyComplete
+C:\Users\sdopuasho\Desktop\Бэкап флешки\appforSDBD\appforSDBD\obj\Debug\appforSDBD.exe
+C:\Users\sdopuasho\Desktop\Бэкап флешки\appforSDBD\appforSDBD\obj\Debug\appforSDBD.pdb

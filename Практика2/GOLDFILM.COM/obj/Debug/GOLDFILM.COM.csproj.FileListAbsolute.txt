@@ -1,0 +1,178 @@
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.exe.config
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.exe
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.pdb
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Properties.Resources.resources
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.GenerateResource.Cache
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.CoreCompileInputs.cache
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.exe
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.pdb
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form0.resources
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form1.resources
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form3.resources
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.exe.config
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.exe
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.pdb
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form0.resources
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form1.resources
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form2.resources
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form3.resources
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form4.resources
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Properties.Resources.resources
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.GenerateResource.Cache
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.CoreCompileInputs.cache
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.exe
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.pdb
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form5.resources
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\Google.Protobuf.dll
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\MySql.Data.dll
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\Google.Protobuf.xml
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\MySql.Data.xml
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form00.resources
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form11.resources
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form22.resources
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form33.resources
+D:\ТТИТ\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form44.resources
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\Google.Protobuf.dll
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\MySql.Data.dll
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\Google.Protobuf.xml
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\MySql.Data.xml
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form11.resources
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form2.resources
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form22.resources
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form33.resources
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form4.resources
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form44.resources
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form5.resources
+Z:\ПДиС\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form00.resources
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.exe.config
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.exe
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.pdb
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\Google.Protobuf.dll
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\MySql.Data.dll
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\Google.Protobuf.xml
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\MySql.Data.xml
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csprojResolveAssemblyReference.cache
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form0.resources
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form1.resources
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form11.resources
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form2.resources
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form22.resources
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form3.resources
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form33.resources
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form4.resources
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form44.resources
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form5.resources
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form00.resources
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Properties.Resources.resources
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.GenerateResource.Cache
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.CoreCompileInputs.cache
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.exe
+Z:\ПДиС\GOLDFILM\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.pdb
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.exe.config
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.exe
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.pdb
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\Google.Protobuf.dll
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\MySql.Data.dll
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\Google.Protobuf.xml
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\MySql.Data.xml
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form0.resources
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form1.resources
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form2.resources
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form3.resources
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form4.resources
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form5.resources
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Properties.Resources.resources
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.CopyComplete
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.exe
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.pdb
+J:\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.exe.config
+J:\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.exe
+J:\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.pdb
+J:\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\Google.Protobuf.dll
+J:\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\MySql.Data.dll
+J:\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\Google.Protobuf.xml
+J:\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\MySql.Data.xml
+J:\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csprojResolveAssemblyReference.cache
+J:\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form0.resources
+J:\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form1.resources
+J:\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form11.resources
+J:\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form2.resources
+J:\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form22.resources
+J:\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form3.resources
+J:\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form33.resources
+J:\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form4.resources
+J:\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form44.resources
+J:\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form5.resources
+J:\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form00.resources
+J:\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Properties.Resources.resources
+J:\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.GenerateResource.cache
+J:\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.CoreCompileInputs.cache
+J:\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.CopyComplete
+J:\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.exe
+J:\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.pdb
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.exe.config
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.exe
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.pdb
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\Google.Protobuf.dll
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\MySql.Data.dll
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\Google.Protobuf.xml
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\MySql.Data.xml
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csprojResolveAssemblyReference.cache
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form0.resources
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form1.resources
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form11.resources
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form2.resources
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form22.resources
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form3.resources
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form33.resources
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form4.resources
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form44.resources
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form5.resources
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form00.resources
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Properties.Resources.resources
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.GenerateResource.Cache
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.CoreCompileInputs.cache
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.exe
+C:\Users\gr671_adyu\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.pdb
+C:\Users\Александр\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csprojAssemblyReference.cache
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csprojResolveAssemblyReference.cache
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form0.resources
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form1.resources
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form2.resources
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form3.resources
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form4.resources
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form5.resources
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Properties.Resources.resources
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.GenerateResource.Cache
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.exe
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.pdb
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.exe.config
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.exe
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.pdb
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\Google.Protobuf.dll
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\MySql.Data.dll
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\Google.Protobuf.xml
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\MySql.Data.xml
+C:\Users\anglebov\Desktop\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.CoreCompileInputs.cache
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.exe.config
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.exe
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\GOLDFILM.COM.pdb
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\Google.Protobuf.dll
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\MySql.Data.dll
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\Google.Protobuf.xml
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\bin\Debug\MySql.Data.xml
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csprojAssemblyReference.cache
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form0.resources
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form1.resources
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form2.resources
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form3.resources
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form4.resources
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Form5.resources
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.Properties.Resources.resources
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.GenerateResource.cache
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.CoreCompileInputs.cache
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.csproj.CopyComplete
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.exe
+C:\Users\sdopuasho\Desktop\Бэкап флешки\GOLDFILM.COM\GOLDFILM.COM\obj\Debug\GOLDFILM.COM.pdb
